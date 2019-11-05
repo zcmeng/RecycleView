@@ -1,2 +1,0 @@
-include ':app', ':customrecycle'
-rootProject.name='recycle'
