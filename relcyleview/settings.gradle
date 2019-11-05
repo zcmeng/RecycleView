@@ -1,0 +1,2 @@
+include ':app', ':recycle'
+rootProject.name='relcyleview'
