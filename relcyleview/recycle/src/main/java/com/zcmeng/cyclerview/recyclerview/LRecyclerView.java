@@ -897,9 +897,9 @@ public class LRecyclerView extends RecyclerView implements LuckRecyclerViewInter
         private View mFooterView;
 
 
-        private int mLoadingTextColor = Color.RED;
+        private int mLoadingTextColor = Color.GRAY;
 
-        private int mProgressColor = Color.RED;
+        private int mProgressColor = Color.GRAY;
 
         private boolean isFooterVisiable = true;
         private LucklyRecyclerView.OnItemClickListener mOnItemClickListener;
