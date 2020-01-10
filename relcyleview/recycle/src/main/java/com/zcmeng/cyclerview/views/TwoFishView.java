@@ -28,7 +28,7 @@ public class TwoFishView extends View {
 
 
     private Paint mPaint;
-    private int mPointColor = Color.RED;
+    private int mPointColor = Color.GRAY;
     private int mHeight;
     private int mWidth;
     ValueAnimator fadeAnimator;
