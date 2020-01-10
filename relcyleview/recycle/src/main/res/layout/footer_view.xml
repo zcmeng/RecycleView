@@ -10,9 +10,8 @@
 
     <com.zcmeng.cyclerview.views.TwoFishView
         android:id="@+id/progressBar"
-        android:layout_width="20dp"
-        android:layout_height="20dp"
-        />
+        android:layout_width="6dp"
+        android:layout_height="2dp" />
 
     <TextView
         android:id="@+id/footer"
@@ -22,6 +21,6 @@
         android:layout_marginLeft="20dp"
         android:gravity="center"
         android:text="我是底部"
-        android:textColor="@android:color/holo_red_light"
+        android:textColor="@color/grey_600"
         android:textSize="14sp"/>
 </LinearLayout>
